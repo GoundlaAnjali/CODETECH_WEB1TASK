@@ -1,5 +1,7 @@
 # CODETECH_WEB1TASK
-TO-DO-LIST
+# TO-DO-LIST
+
+
 Creating a to-do list application using HTML, CSS, and JavaScript involves several key concepts and steps. Here is a theoretical overview of the process:
 
 1. HTML Structure
